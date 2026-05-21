@@ -1,0 +1,7 @@
+test_publisher
+test_publisher.exe
+test_subscriber
+test_subscriber.exe
+broker.log
+publisher.log
+subscriber.log
